@@ -1,6 +1,6 @@
 import NotesApi from '../../../networks/notes-api';
 import CameraHelper from '../../../utils/camera-helper';
-import { recognizePicture, recognizePictureWithVision } from '../../../utils/utils';
+import { recognizePictureWithVision } from '../../../utils/utils';
 import { Modal } from 'bootstrap';
 
 const Create = {
